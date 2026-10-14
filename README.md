@@ -6,16 +6,16 @@ Tất cả video thành phẩm, chia theo sản phẩm. Bấm "Xem / tải" đ�
 
 | Video | Ngày làm | Dài | Âm thanh | Đã đăng | Xem / tải |
 |---|---|---|---|---|---|
-| 1. Gàu bám vai áo | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-01-gau-bam-vai-ao.mp4) |
-| 2. Ngứa da đầu giữa giờ làm | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-02-ngua-da-dau.mp4) |
-| 3. Da đầu dầu, tóc bết | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-03-da-dau-dau.mp4) |
-| 4. Tóc gãy rụng khi chải | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-04-toc-gay-rung.mp4) |
-| 5. Zinc Pyrithione là gì | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-05-zinc-pyrithione.mp4) |
-| 6. Một chai gội và tắm | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-06-goi-va-tam.mp4) |
-| 7. Phức hợp kẽm hữu cơ nano | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-07-kem-huu-co-nano.mp4) |
-| 8. Hàng của CPC1 Hà Nội | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-08-cpc1-ha-noi.mp4) |
-| 9. Gội đúng cách | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-09-goi-dung-cach.mp4) |
-| 10. 169 nghìn, freeship | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-10-uu-dai-freeship.mp4) |
+| 1. Gàu bám vai áo | 14/10 | 16s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-01-gau-bam-vai-ao-giong.mp4) |
+| 2. Ngứa da đầu giữa giờ làm | 14/10 | 15s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-02-ngua-da-dau-giong.mp4) |
+| 3. Da đầu dầu, tóc bết | 14/10 | 15s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-03-da-dau-dau-giong.mp4) |
+| 4. Tóc gãy rụng khi chải | 14/10 | 14s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-04-toc-gay-rung-giong.mp4) |
+| 5. Zinc Pyrithione là gì | 14/10 | 15s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-05-zinc-pyrithione-giong.mp4) |
+| 6. Một chai gội và tắm | 14/10 | 15s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-06-goi-va-tam-giong.mp4) |
+| 7. Phức hợp kẽm hữu cơ nano | 14/10 | 14s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-07-kem-huu-co-nano-giong.mp4) |
+| 8. Hàng của CPC1 Hà Nội | 14/10 | 15s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-08-cpc1-ha-noi-giong.mp4) |
+| 9. Gội đúng cách | 14/10 | 14s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-09-goi-dung-cach-giong.mp4) |
+| 10. Dầu gội gàu chính hãng | 14/10 | 14s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-10-chinh-hang-cpc1-giong.mp4) |
 
 ## Black Maca & Ginseng Premium
 
