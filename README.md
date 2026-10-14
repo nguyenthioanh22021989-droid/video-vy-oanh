@@ -2,6 +2,21 @@
 
 Tất cả video thành phẩm, chia theo sản phẩm. Bấm "Xem / tải" để mở video trên điện thoại, giữ lâu để tải về.
 
+## Conadin Shampoo 2in1 (TikTok, giỏ hàng)
+
+| Video | Ngày làm | Dài | Âm thanh | Đã đăng | Xem / tải |
+|---|---|---|---|---|---|
+| 1. Gàu bám vai áo | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-01-gau-bam-vai-ao.mp4) |
+| 2. Ngứa da đầu giữa giờ làm | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-02-ngua-da-dau.mp4) |
+| 3. Da đầu dầu, tóc bết | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-03-da-dau-dau.mp4) |
+| 4. Tóc gãy rụng khi chải | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-04-toc-gay-rung.mp4) |
+| 5. Zinc Pyrithione là gì | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-05-zinc-pyrithione.mp4) |
+| 6. Một chai gội và tắm | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-06-goi-va-tam.mp4) |
+| 7. Phức hợp kẽm hữu cơ nano | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-07-kem-huu-co-nano.mp4) |
+| 8. Hàng của CPC1 Hà Nội | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-08-cpc1-ha-noi.mp4) |
+| 9. Gội đúng cách | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-09-goi-dung-cach.mp4) |
+| 10. 169 nghìn, freeship | 14/10 | 15s | nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/conadin/video-conadin-10-uu-dai-freeship.mp4) |
+
 ## Black Maca & Ginseng Premium
 
 | Video | Ngày làm | Dài | Âm thanh | Đã đăng | Xem / tải |
@@ -74,4 +89,4 @@ Tất cả video thành phẩm, chia theo sản phẩm. Bấm "Xem / tải" đ�
 |---|---|---|---|---|---|
 | Video TikTok | 28/09 | 20s | không tiếng | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/cu/video-ginsengmin-tiktok.mp4) |
 
-Tổng: 32 video. Cập nhật 13/10/2026.
+Tổng: 42 video. Cập nhật 14/10/2026.
