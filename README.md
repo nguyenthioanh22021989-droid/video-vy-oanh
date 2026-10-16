@@ -2,6 +2,20 @@
 
 Tất cả video thành phẩm, chia theo sản phẩm. Bấm "Xem / tải" để mở video trên điện thoại, giữ lâu để tải về.
 
+## Chiều cao của con (3D, 3 bài giảng YouTube)
+
+| Video | Ngày làm | Dài | Âm thanh | Đã đăng | Xem / tải |
+|---|---|---|---|---|---|
+| 1. 3 giai đoạn vàng | 16/10 | 45s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/chieu-cao/video-chieucao-01-3-giai-doan-vang-giong.mp4) |
+| 2. 4 yếu tố quyết định chiều cao | 16/10 | 42s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/chieu-cao/video-chieucao-02-4-yeu-to-giong.mp4) |
+| 3. Sự thật về thực phẩm bổ sung | 16/10 | 37s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/chieu-cao/video-chieucao-03-su-that-thuc-pham-bo-sung-giong.mp4) |
+| 4. Dậy thì và chiều cao | 16/10 | 34s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/chieu-cao/video-chieucao-04-day-thi-va-chieu-cao-giong.mp4) |
+| 5. 17 tuổi chạy nước rút có kịp | 16/10 | 35s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/chieu-cao/video-chieucao-05-chay-nuoc-rut-co-kip-giong.mp4) |
+| 6. Qua tuổi dậy thì còn cách nào | 16/10 | 35s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/chieu-cao/video-chieucao-06-qua-tuoi-day-thi-giong.mp4) |
+| 7. Các mốc vàng từ trong bụng mẹ | 16/10 | 32s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/chieu-cao/video-chieucao-07-cac-moc-vang-tu-trong-bung-me-giong.mp4) |
+| 8. 3 mẹo ngủ, tập, uống sữa | 16/10 | 27s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/chieu-cao/video-chieucao-08-meo-ngu-tap-uong-sua-giong.mp4) |
+| 9. Bé gái, bé trai ngừng cao lúc nào | 16/10 | 31s | giọng + nhạc | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/chieu-cao/video-chieucao-09-khi-nao-ngung-cao-giong.mp4) |
+
 ## Conadin Shampoo 2in1 (TikTok, giỏ hàng)
 
 | Video | Ngày làm | Dài | Âm thanh | Đã đăng | Xem / tải |
@@ -89,4 +103,4 @@ Tất cả video thành phẩm, chia theo sản phẩm. Bấm "Xem / tải" đ�
 |---|---|---|---|---|---|
 | Video TikTok | 28/09 | 20s | không tiếng | chưa | [Xem / tải](https://raw.githubusercontent.com/nguyenthioanh22021989-droid/video-vy-oanh/main/cu/video-ginsengmin-tiktok.mp4) |
 
-Tổng: 42 video. Cập nhật 14/10/2026.
+Tổng: 51 video. Cập nhật 16/10/2026.
